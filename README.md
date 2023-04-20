@@ -1,5 +1,5 @@
 # AugmentedReality
-Aplikasi Augmented Reality hasil dari pelatihan Train4Best yang diadakan Kominfo
+Aplikasi Augmented Reality hasil dari pelatihan Train4Best yang diadakan Kominfo. AR ini dapat berinteraksi antara user dengan objek menggunakan button yang telah dibuat sehingga menghasilkan gerakan kendaraan yang telah ditentukan. Adapun kendaraan yang dipilih adalah mobil. Selain itu, juga terdapat button yang terhubung ke Mozilla Hubs dengan tema yang sama dengan AR di Unity sehingga para user dapat berinteraksi di Metaverse.
 
 PPT: https://drive.google.com/drive/folders/1PgWhwhD8MbF32GXH3gTyEFURK_JNfGSY?usp=share_link
 
